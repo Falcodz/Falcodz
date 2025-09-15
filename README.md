@@ -2,7 +2,7 @@
 
 **🚀 DevOps & Cloud Engineer | AWS | Azure | GCP | Kubernetes | CI/CD | DevSecOps**
 
-I’m a Cloud & DevOps Engineer with ~3 years of experience designing, automating, and scaling infrastructure across AWS, Azure, and GCP. I specialize in Kubernetes cluster management, CI/CD pipelines, Infrastructure as Code (IaC), and DevSecOps practices—helping teams ship faster, safer, and smarter.
+I’m a Cloud & DevOps Engineer with 5+ years of experience designing, automating, and scaling infrastructure across AWS, Azure, and GCP. I specialize in Kubernetes cluster management, CI/CD pipelines, Infrastructure as Code (IaC), and DevSecOps practices—helping teams ship faster, safer, and smarter.
 
 
 **🔧 Tech Stack & Skills**
